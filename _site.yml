@@ -19,6 +19,8 @@ navbar:
           href: TP4.html
         - text: "TP5"
           href: TP5.html
+    - text: "Examen"
+      href: examen.html
     - text: "Contact"
       href: contact.html
   source_url: true
