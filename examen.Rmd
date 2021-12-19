@@ -12,3 +12,5 @@ Est autorisé à l'examen :
 
 - une calculatrice non-graphique
 - ce [formulaire](files/formulaire_tables_LESPO2102.pdf) reprenant les formules les plus utilisées pour ce cours ainsi que les tables statistiques pour la loi Binomiale et Normale
+
+Lors de vos révisions, vous pouvez vous aider de cette [application](https://antoinesoetewey.shinyapps.io/statistics-101/) pour vérifier vos réponses dans les tables, mais elle ne sera pas autorisée à l'examen.
