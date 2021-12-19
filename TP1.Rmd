@@ -10,7 +10,7 @@ knitr::opts_chunk$set(echo = FALSE)
 
 Ressources préliminaires à lire **avant** de faire les exercices :
 
-- [Différence entre opulation et échantillon](https://statsandr.com/blog/what-is-the-difference-between-population-and-sample/)
+- [Différence entre population et échantillon](https://statsandr.com/blog/what-is-the-difference-between-population-and-sample/)
 - [Les types de variable en statistiques](https://statsandr.com/blog/variable-types-and-examples/)
 - [Introduction aux statistiques descriptives](https://statsandr.com/blog/descriptive-statistics-by-hand/)
 
