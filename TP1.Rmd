@@ -1,5 +1,5 @@
 ---
-title: "TP1 - Statistiques descriptives"
+title: "TP1"
 description: |
   Statistiques descriptives
 ---
@@ -8,11 +8,13 @@ description: |
 knitr::opts_chunk$set(echo = FALSE)
 ```
 
-Ressources préliminaires à lire **avant** de faire les exercices:
+Ressources préliminaires à lire **avant** de faire les exercices :
 
-- test
+- [Différence entre opulation et échantillon](https://statsandr.com/blog/what-is-the-difference-between-population-and-sample/)
+- [Les types de variable en statistiques](https://statsandr.com/blog/variable-types-and-examples/)
+- [Introduction aux statistiques descriptives](https://statsandr.com/blog/descriptive-statistics-by-hand/)
 
-TP:
+# Exercices
 
 - Enoncés
-- Solutions
+- Solutions (mises en ligne après la séance de TP)
