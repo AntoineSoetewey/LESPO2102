@@ -1,6 +1,8 @@
 # LESPO2102
 
-Site web dédié au cours LESPO2102 dispensé à l'UCLouvain. Plus d'informations : https://lespo2102.netlify.app/
+Site web dédié au cours LESPO2102 dispensé à l'UCLouvain.
+
+Plus d'informations sur : https://lespo2102.netlify.app/
 
 ## Status
 
