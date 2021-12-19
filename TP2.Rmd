@@ -1,0 +1,18 @@
+---
+title: "TP2 & 3"
+description: |
+  Probabilités
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+Ressources préliminaires à lire **avant** de faire les exercices :
+
+- [Concepts importants en probabilités](https://statsandr.com/blog/the-9-concepts-and-formulas-in-probability-that-every-data-scientist-should-know/)
+
+# Exercices
+
+- [Enoncés](files/LESPO2102_TP2_3_enonce.pdf)
+- [Solutions](files/LESPO2102_TP2_3_soletudiant.pdf)

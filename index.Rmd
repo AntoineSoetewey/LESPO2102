@@ -20,4 +20,4 @@ Bienvenue sur ce site web dédié aux TPs (travaux pratiques) pour le cours LESP
 
 Vous y trouverez toutes les informations nécessaires liés aux TPs en parcourant le menu.
 
-Pour toutes questions, veuillez les poser pendant les séances de TPs ou par [email](contact.html) si votre question ne peut pas attendre la prochaine séance d'exercices.
+Pour toutes questions, veuillez les poser pendant les TPs ou par [email](contact.html) si votre question ne peut pas attendre la prochaine séance d'exercices.

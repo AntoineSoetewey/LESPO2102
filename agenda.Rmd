@@ -10,4 +10,4 @@ knitr::opts_chunk$set(echo = FALSE)
 
 Vous trouverez les dates, heures et locaux pour les TPs en vous connectant sur [ADE Expert](http://horaire.uclouvain.be/direct/).
 
-S'il y a des modifications, vous serez tenu informés via votre e-mail de l'UCLouvain.
+S'il y a des modifications, vous serez tenus informés via votre e-mail de l'UCLouvain.

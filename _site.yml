@@ -13,10 +13,8 @@ navbar:
       menu:
         - text: "TP1"
           href: TP1.html
-        - text: "TP2"
+        - text: "TP2 & 3"
           href: TP2.html
-        - text: "TP3"
-          href: TP3.html
         - text: "TP4"
           href: TP4.html
         - text: "TP5"

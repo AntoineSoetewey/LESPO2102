@@ -16,5 +16,5 @@ Ressources préliminaires à lire **avant** de faire les exercices :
 
 # Exercices
 
-- Enoncés
-- Solutions (mises en ligne après la séance de TP)
+- [Enoncés](files/LESPO2102_TP1_enonce.pdf)
+- [Solutions](files/LESPO2102_TP1_solassistant.pdf)

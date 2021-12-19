@@ -1,0 +1,14 @@
+---
+title: "TP4"
+description: |
+  Probabilités et loi Binomiale
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+# Exercices
+
+- [Enoncés](files/LESPO2102_TP4_enonce.pdf)
+- [Solutions](files/LESPO2102_TP4_soletudiant.pdf)

@@ -1,0 +1,21 @@
+---
+title: "TP1"
+description: |
+  Loi Normale
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+Ressources préliminaires à lire **avant** de faire les exercices :
+
+- [Distribution normale](https://statsandr.com/blog/do-my-data-follow-a-normal-distribution-a-note-on-the-most-widely-used-distribution-and-how-to-test-for-normality-in-r/)
+- [Coefficient de corrélation](https://statsandr.com/blog/correlation-coefficient-and-correlation-test-in-r/)
+
+# Exercices
+
+- [Enoncés](files/LESPO2102_TP5_enonce.pdf)
+- [Solutions](files/LESPO2102_TP5_soletudiant.pdf)
+
+Veuillez également trouver des exercices supplémentaires sur le cas bivariés dans ce [PDF](files/exosupp.pdf).
