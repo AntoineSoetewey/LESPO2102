@@ -1,0 +1,23 @@
+---
+title: "LESPO2102 - TPs"
+# description: |
+#   Welcome to the website. I hope you enjoy it!
+site: distill::distill_website
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+
+# Learn more about creating websites with Distill at:
+# https://rstudio.github.io/distill/website.html
+
+# Learn more about publishing to GitHub Pages at:
+# https://rstudio.github.io/distill/publish_website.html#github-pages
+
+```
+
+Bienvenue sur ce site web dédié aux TPs (travaux pratiques) pour le cours LESPO2102 dispensé à l'UCLouvain.
+
+Vous y trouverez toutes les informations nécessaires liés aux TPs en parcourant le menu.
+
+Pour toutes questions, veuillez les poser pendant les séances de TPs ou par [email](contact.html) si votre question ne peut pas attendre la prochaine séance d'exercices.

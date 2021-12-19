@@ -1,0 +1,32 @@
+name: "LESPO2102"
+title: "LESPO2102 - TPs"
+description: |
+  Site web dédié au cours LESPO2102 dispensé à l'UCLouvain.
+output_dir: "docs"
+navbar:
+  right:
+    - text: "Accueil"
+      href: index.html
+    - text: "Agenda"
+      href: agenda.html
+    - text: "TPs"
+      menu:
+        - text: "TP1"
+          href: TP1.html
+        - text: "TP2"
+          href: TP2.html
+        - text: "TP3"
+          href: TP3.html
+        - text: "TP4"
+          href: TP4.html
+        - text: "TP5"
+          href: TP5.html
+    - text: "Contact"
+      href: contact.html
+  source_url: true
+output: distill::distill_article
+base_url: https://lespo2102.netlify.app/
+repository_url: https://github.com/AntoineSoetewey/LESPO2102
+# creative_commons: CC BY
+twitter:
+  site: "@statsandr"

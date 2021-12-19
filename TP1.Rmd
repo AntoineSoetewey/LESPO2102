@@ -1,0 +1,18 @@
+---
+title: "TP1 - Statistiques descriptives"
+description: |
+  Statistiques descriptives
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+Ressources préliminaires à lire **avant** de faire les exercices:
+
+- test
+
+TP:
+
+- Enoncés
+- Solutions

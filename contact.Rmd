@@ -1,0 +1,11 @@
+---
+title: "Contact"
+# description: |
+#   Some additional details about the website
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+Pour toutes questions, veuillez les poser pendant les séances de TPs ou par [email](https://uclouvain.be/en/directories/antoine.soetewey) si votre question ne peut pas attendre la prochaine séance d'exercices.

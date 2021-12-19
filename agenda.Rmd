@@ -1,0 +1,13 @@
+---
+title: "Agenda"
+# description: |
+#   Some additional details about the website
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+Vous trouverez les dates, heures et locaux pour les TPs en vous connectant sur [ADE Expert](http://horaire.uclouvain.be/direct/).
+
+S'il y a des modifications, vous serez tenu informés via votre e-mail de l'UCLouvain.
