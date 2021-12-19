@@ -20,4 +20,6 @@ Bienvenue sur ce site web dédié aux TPs (travaux pratiques) pour le cours LESP
 
 Vous y trouverez toutes les informations nécessaires liés aux TPs en parcourant le menu.
 
+Les documents liés à la partie cours (théorie) se trouvent sur Moodle.
+
 Pour toutes questions, veuillez les poser pendant les TPs ou par [email](contact.html) si votre question ne peut pas attendre la prochaine séance d'exercices.
