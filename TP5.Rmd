@@ -18,4 +18,4 @@ Ressources préliminaires à lire **avant** de faire les exercices :
 - [Enoncés](files/LESPO2102_TP5_enonce.pdf)
 - [Solutions](files/LESPO2102_TP5_soletudiant.pdf)
 
-Veuillez également trouver des exercices supplémentaires sur le cas bivariés dans ce [PDF](files/exosupp.pdf).
+Vous trouverez également des exercices supplémentaires sur le cas bivariés dans ce [PDF](files/exosupp.pdf).
