@@ -4,37 +4,37 @@
       "path": "agenda.html",
       "title": "Agenda",
       "author": [],
-      "contents": "\nVous trouverez les dates, heures et locaux pour les TPs en vous connectant sur ADE Expert.\nS’il y a des modifications, vous serez tenus informés via votre e-mail de l’UCLouvain.\n\n\n\n",
-      "last_modified": "2021-12-20T00:26:26+01:00"
+      "contents": "\nVous trouverez les dates, heures et locaux pour les TPs en vous connectant sur ADE Expert.\nS’il y a des changements pendant le quadrimestre, vous serez tenus informés dès que possible via votre e-mail de l’UCLouvain.\n\n\n\n",
+      "last_modified": "2021-12-21T09:48:31+01:00"
     },
     {
       "path": "contact.html",
       "title": "Contact",
       "author": [],
       "contents": "\nPour toutes questions, veuillez les poser pendant les séances de TPs ou par email si votre question ne peut pas attendre la prochaine séance d’exercices.\n\n\n\n",
-      "last_modified": "2021-12-20T00:26:27+01:00"
+      "last_modified": "2021-12-21T09:48:32+01:00"
     },
     {
       "path": "examen.html",
       "title": "Ressources pour l'examen",
       "author": [],
       "contents": "\nEst autorisé à l’examen :\nune calculatrice non-graphique\nce formulaire reprenant les formules les plus utilisées pour ce cours ainsi que les tables statistiques pour la loi Binomiale et Normale\nLors de vos révisions, vous pouvez vous aider de cette application pour vérifier vos réponses dans les tables, mais elle ne sera pas autorisée à l’examen.\n\n\n\n",
-      "last_modified": "2021-12-20T00:26:28+01:00"
+      "last_modified": "2021-12-21T09:48:32+01:00"
     },
     {
       "path": "index.html",
       "title": "LESPO2102 - TPs",
       "author": [],
-      "contents": "\nBienvenue sur ce site web dédié aux TPs (travaux pratiques) pour le cours LESPO2102 dispensé à l’UCLouvain.\nVous y trouverez toutes les informations nécessaires liés aux TPs en parcourant le menu.\nPour toutes questions, veuillez les poser pendant les TPs ou par email si votre question ne peut pas attendre la prochaine séance d’exercices.\n\n\n\n",
-      "last_modified": "2021-12-20T00:26:28+01:00"
+      "contents": "\nBienvenue sur ce site web dédié aux TPs (travaux pratiques) pour le cours LESPO2102 dispensé à l’UCLouvain.\nVous y trouverez toutes les informations nécessaires liés aux TPs en parcourant le menu.\nLes documents liés à la partie cours (théorie) se trouvent sur Moodle.\nPour toutes questions, veuillez les poser pendant les TPs ou par email si votre question ne peut pas attendre la prochaine séance d’exercices.\n\n\n\n",
+      "last_modified": "2021-12-21T09:48:33+01:00"
     },
     {
       "path": "TP1.html",
       "title": "TP1",
       "description": "Statistiques descriptives",
       "author": [],
-      "contents": "\nRessources préliminaires à lire avant de faire les exercices :\nDifférence entre opulation et échantillon\nLes types de variable en statistiques\nIntroduction aux statistiques descriptives\nExercices\nEnoncés\nSolutions\n\n\n\n",
-      "last_modified": "2021-12-20T00:26:29+01:00"
+      "contents": "\nRessources préliminaires à lire avant de faire les exercices :\nDifférence entre population et échantillon\nLes types de variable en statistiques\nIntroduction aux statistiques descriptives\nExercices\nEnoncés\nSolutions\n\n\n\n",
+      "last_modified": "2021-12-21T09:48:34+01:00"
     },
     {
       "path": "TP2.html",
@@ -42,7 +42,7 @@
       "description": "Probabilités",
       "author": [],
       "contents": "\nRessources préliminaires à lire avant de faire les exercices :\nConcepts importants en probabilités\nExercices\nEnoncés\nSolutions\n\n\n\n",
-      "last_modified": "2021-12-20T00:26:30+01:00"
+      "last_modified": "2021-12-21T09:48:35+01:00"
     },
     {
       "path": "TP4.html",
@@ -50,15 +50,15 @@
       "description": "Probabilités et loi Binomiale",
       "author": [],
       "contents": "\nExercices\nEnoncés\nSolutions\n\n\n\n",
-      "last_modified": "2021-12-20T00:26:31+01:00"
+      "last_modified": "2021-12-21T09:48:36+01:00"
     },
     {
       "path": "TP5.html",
-      "title": "TP1",
+      "title": "TP5",
       "description": "Loi Normale",
       "author": [],
-      "contents": "\nRessources préliminaires à lire avant de faire les exercices :\nDistribution normale\nCoefficient de corrélation\nExercices\nEnoncés\nSolutions\nVeuillez également trouver des exercices supplémentaires sur le cas bivariés dans ce PDF.\n\n\n\n",
-      "last_modified": "2021-12-20T00:26:31+01:00"
+      "contents": "\nRessources préliminaires à lire avant de faire les exercices :\nDistribution normale\nCoefficient de corrélation\nExercices\nEnoncés\nSolutions\nVous trouverez également des exercices supplémentaires sur le cas bivarié dans ce PDF.\n\n\n\n",
+      "last_modified": "2021-12-21T09:48:36+01:00"
     }
   ],
   "collections": []
